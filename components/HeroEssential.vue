@@ -8,7 +8,7 @@
             :loop="true"
         >
             <swiper-slide v-for="slider in sliders" :key="slider.id">
-                <div class="hero-essential-slide bg-cover" :style="{backgroundImage: `url(${slider.bgImage})`}">
+                <div class="hero-essential-slide bg-cover" :style="{backgroundImage: `url(${slider.bgImage})`, backgroundPositionY: 'top'}">
                     <div class="container">
                         <div class="row">
                             <div class="col-12">

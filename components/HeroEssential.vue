@@ -12,8 +12,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="hero-content hero-essential">
-                                    <h2 class="hero-title" v-html="slider.heading"></h2>
+                                <div class="hero-content hero-essential text-white">
+                                    <h2 class="hero-title text-white" v-html="slider.heading"></h2>
                                     <h5>{{ slider.subHeading }}</h5>
                                     <!-- <nuxt-link to="/about-us-01" class="btn-essential">Explore Now</nuxt-link> -->
                                 </div>
@@ -55,21 +55,62 @@
                 sliders: [
                     {
                         id: 1,
-                        heading: "SUSAH CARI ART? MALES RIBET GONTA-GANTI",
-                        subHeading: "DITAMBAH KHAWATIR KEAMANANNYA KALO TINGGAL DI RUMAH?",
-                        bgImage: "/img/slider/essential-1.jpg"
+                        heading: "Susah Cari ART? Lebih Baik Harian - Hemat - Aman - Nyaman",
+                        // subHeading: "DITAMBAH KHAWATIR KEAMANANNYA KALO TINGGAL DI RUMAH?",
+                        bgImage: "/img/slider/essential-0.png"
                     },
                     {
                         id: 2,
-                        heading: "INI SOLUSINYA!",
-                        subHeading: "RUMAH SELALU BERSIH DAN RAPI TANPA  KHAWATIR - TANPA NAMBAH KERJAAN !",
-                        bgImage: "/img/slider/essential-2.jpg"
+                        heading: "Lelah Menghadapi Drama - Mencari Pengganti Assistent Rumah Tangga?",
+                        // subHeading: "DITAMBAH KHAWATIR KEAMANANNYA KALO TINGGAL DI RUMAH?",
+                        bgImage: "/img/slider/essential-1.png"
                     },
                     {
-                        id: 2,
-                        heading: "ASISITENT RUMAH TANGGA (ART)  HARIAN YANG BIKIN NYAMAN SESUAI JAMAN.",
-                        bgImage: "/img/slider/essential-2.jpg"
-                    }
+                        id: 3,
+                        heading: "Kami ART Harian Bikin Harimu Tanpa Bete",
+                        // subHeading: "RUMAH SELALU BERSIH DAN RAPI TANPA  KHAWATIR - TANPA NAMBAH KERJAAN !",
+                        bgImage: "/img/slider/essential-2.png"
+                    },
+                    {
+                        id: 4,
+                        heading: "Rumah Sering Berantakan Karena Aktifitas Bermain?",
+                        bgImage: "/img/slider/essential-3.png"
+                    },
+                    {
+                        id: 5,
+                        heading: "Apapun situasinya kami hadir untuk keluarga",
+                        bgImage: "/img/slider/essential-4.png"
+                    },
+                    {
+                        id: 6,
+                        heading: "Dapur Berantakan Butuh Bantuan?",
+                        bgImage: "/img/slider/essential-5.png"
+                    },
+                    {
+                        id: 7,
+                        heading: "Kami Cekatan Berikan Hasil Rapih dan Kebersihan",
+                        bgImage: "/img/slider/essential-6.png"
+                    },
+                    {
+                        id: 8,
+                        heading: "Ingin Hidup Lebih Baik dan Bernilai?",
+                        bgImage: "/img/slider/essential-7.png"
+                    },
+                    {
+                        id: 9,
+                        heading: "Percayakan Kepada Kami - Karena Waktu Keluarga Lebih Berarti",
+                        bgImage: "/img/slider/essential-8.png"
+                    },
+                    {
+                        id: 10,
+                        heading: "Lelah akan pekerjaan yang tidak diinginkan?",
+                        bgImage: "/img/slider/essential-9.png"
+                    },
+                    {
+                        id: 11,
+                        heading: "Kami Solusi Berbagai Situasi Rumah Bersih Rapih",
+                        bgImage: "/img/slider/essential-10.png"
+                    },
                 ]
             }
         }

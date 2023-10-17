@@ -16,10 +16,10 @@
                   </h5>
                   <p class="bk_pra">
                     Pilih aja paket per jam yang sesuai jadwal kamu, tanpa ribet
-                    kontrak panjang, juga ga perlu mikirin tempat buat ART-nya.
-                    Kami ini <strong>jasa pembersih rumah terdekat</strong>,
-                    bisa nyamperin rumah atau apartemen kamu kapan aja
-                    dibutuhin.
+                    kontrak panjang, juga ga perlu mikirin tempat buat
+                    <strong>Assistent Rumah Tangga Menginap</strong>. Kami ini
+                    <strong>jasa pembersih rumah terdekat</strong>, bisa
+                    nyamperin rumah atau apartemen kamu kapan aja dibutuhin.
                   </p>
                 </div>
               </div>
@@ -35,9 +35,9 @@
                     DIJAMIN BERSIH RAPIH BERGARANSI
                   </h5>
                   <p class="bk_pra">
-                    Kami tuh Jasa Membersihkan Rumah yang paling pro, hasilnya
-                    bersih banget dan buktinya rating dan review-nya paling
-                    tinggi di Google. Buat
+                    Kami tuh <strong>Jasa Membersihkan Rumah</strong> yang
+                    paling pro, hasilnya bersih banget dan buktinya rating dan
+                    review-nya paling tinggi di Google. Buat
                     <strong>Jasa cleaning rumah</strong> atau
                     <strong>jasa bersih rumah online</strong>, Kami Ahli
                     Terbukti Testimoni langganan kami
@@ -104,19 +104,178 @@
             <div class="brook-section-title text-center mb--45">
               <div class="bkseparator--25"></div>
               <h2 class="heading-40 fw-200">
-                <strong
-                  >IRIT BIAYA BUAT JASA BERSIH-BERSIH HARIAN DIBANDINGKAN DENGAN
-                  ASISTEN RUMAH TANGGA MENGINAP</strong
-                >
+                MAU TAU SEBERAPA HEMATNYA PUNYA
+                <strong>PEMBANTU HARIAN</strong> DIBANDING DENGAN
+                <strong>PEMBANTU RUMAH TANGGA MENGINAP</strong> ?
               </h2>
             </div>
           </div>
         </div>
-        <img
-          class="img-fluid w-100 my-4"
-          src="/img/tables/table2-b2c.jpg"
-          alt=""
-        />
+        <table class="table">
+          <thead class="thead-dark">
+            <tr>
+              <th>
+                PERBANDINGAN MEMAKAI JASA KAMI DENGAN MENGGUNAKAN ART BIASA
+              </th>
+              <th>HOME STERIL</th>
+              <th>ART BIASA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="text-bold">
+                <strong>Irit Biaya</strong> Ga Perlu Siapin Tempat Tinggal
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+            <tr>
+              <td class="text-bold">
+                <strong>Irit Biaya</strong> Tanpa Biaya Makanan Harian
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+            <tr>
+              <td class="text-bold">
+                <strong>Irit Biaya</strong> Ga Perlu Bayar THR
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+            <tr>
+              <td class="text-bold">
+                <strong>Irit Biaya</strong> Ga Perlu Bayar Gaji Bulanan Buat yang Jarang Kerja
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+            <tr>
+              <td class="text-bold">
+                <strong>Irit Biaya</strong> Ga Perlu Siapin Alat-alat Kayak Vacuum, Pel, Lap, dll
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+            <tr>
+              <td class="text-bold">
+                <strong>Kerja Cepat dan Tepat</strong> Efektif Banger
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+            <tr>
+              <td class="text-bold">
+                <strong>Petugas Selalu Tersedia</strong> -Ga Pulang Kampung Pas Hari Raya atau Hari Besar*
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+            <tr>
+              <td class="text-bold">
+                <strong>Jaminan Kerja Aman</strong> Pemilik Rumah Selalu Ada dan Privasi Terjaga karena Kerjaannya Cepet
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-check-square text-success"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+              <td class="text-center">
+                <i
+                  class="fa fa-window-close text-danger"
+                  style="font-size: 32px"
+                  aria-hidden="true"
+                ></i>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
     <div class="brook-call-to-action bg-danger ptb--40">
@@ -129,8 +288,10 @@
               <h3 class="text-white wow move-up">
                 PESAN SEKARANG DAN RASAKAN KEHIDUPAN LEBIH BERMAKNA!
               </h3>
-              <h6 class="text-white wow move-up">
-                Penawaran Terbatas Hanya untuk Bulan Ini Saja!
+              <h6 class="text-white wow move-up w-100" style="@media screen and (max-width: 440px) {
+                text-align: center;
+              }">
+                Penawaran Terbatas hanya untuk Hari ini saja
               </h6>
             </div>
           </div>
@@ -187,12 +348,14 @@
               <h3 class="text-white wow move-up">
                 ORDER SEKARANG & GUNAKAN VOUCHER DISK DIBAWAH INI
               </h3>
-              <h6 class="text-white wow move-up">
-                Penawaran Terbatas Hanya untuk Bulan Ini Saja!
+              <h6 class="text-white wow move-up w-100" style="@media screen and (max-width: 440px) {
+                text-align: center;
+              }">
+                Tunggu Apalagi, Waktunya Hidup Lebih Nyaman 
               </h6>
               <h3 class="text-white wow move-up">
-                PENAWARAN BERLAKU SISA {{ msToHours }}:
-                {{ msToMinutes }}: {{ msToSeconds }} WIB
+                PENAWARAN BERLAKU SISA {{ msToHours }}: {{ msToMinutes }}:
+                {{ msToSeconds }} WIB
               </h3>
             </div>
           </div>
@@ -218,7 +381,7 @@
 </template>
 
 <script>
-import CarouselWithCaptionOne from "@/components/sections/CarouselWithCaptionOne"
+import CarouselWithCaptionOne from "@/components/sections/CarouselWithCaptionOne";
 import TestimonialWithoutCarousel from "@/components/sections/TestimonialWithoutCarousel";
 export default {
   components: {
@@ -227,10 +390,10 @@ export default {
     EssentialIconBox2: () => import("@/components/EssentialIconBox2"),
     PricingItemStyleTwo: () => import("@/components/PricingItemStyleTwo"),
     Footer: () => import("@/components/Footer"),
-    BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
+    BrandLogoCarousel: () => import("@/components/BrandLogoCarousel"),
     AccordionStyleTwo: () => import("@/components/AccordionStyleTwo"),
     TestimonialWithoutCarousel,
-    CarouselWithCaptionOne
+    CarouselWithCaptionOne,
   },
 
   data() {
@@ -241,12 +404,12 @@ export default {
       listsHemat: [
         {
           title:
-            "Bayar cuma buat waktu yang dipake, dengan biaya jasa bersih rumah paling terjangkau karena ga ada biaya makan atau THR. Lebih irit daripada punya Asistent Rumah Tangga atau pembantu rumah tetap yang tinggal di sana.",
+            "Bayar cuma buat waktu yang dipake, dengan biaya jasa bersih rumah paling terjangkau karena ga ada biaya makan atau THR. Lebih irit daripada punya <strong>Asistent Rumah Tangga</strong> atau <strong>Pembantu Rumah Tangga</strong> di sana.",
           marker: 1,
         },
         {
           title:
-            "Karena udah terbiasa layanan bersih rumah, kerjanya cepet dan rapi, jadi bersihn dan rapihin rumahnya jadi gampang.",
+            "Karena udah terbiasa <strong>layanan bersih rumah</strong>, kerjanya cepet dan rapi, jadi <strong>bersih bersih rumahnya</strong>jadi gampang.",
           marker: 2,
         },
         {
@@ -273,12 +436,12 @@ export default {
         },
         {
           title:
-            "Privasi rumah terjaga karena ga ada Asistent Rumah Tangga yang selalu ada di sekitar aktifitas rumah",
+            "Privasi rumah terjaga karena ga ada <strong>Penyalur Pembantu atau Yayasan Pembantu Rumah Tangga</strong> yang selalu ada di sekitar aktifitas rumah",
           marker: 4,
         },
         {
           title:
-            "Penyalur ART atau yg mengaku pembantu rumah tanggga terpercaya juga ga bakal bisa kasih garansi ke pemilik rumah soal keamanan pembantu selama tinggal lebih dari 3 bulan",
+            "<strong>Penyalur ART</strong> atau yg mengaku <strong>Penyalur PRT</strong> terpercaya juga ga bakal bisa kasih garansi ke pemilik rumah soal keamanan pembantu selama bekerja",
           marker: 5,
         },
       ],

@@ -49,13 +49,13 @@
           {
             id: 2,
             icon: "fa fa-hands",
-            title: "Pembersihan mendalam",
+            title: "Pembersihan Mendalam",
             text: "Layanan kita nyentuh setiap pojok ruangan, ga cuma bersihin rumah aja tapi juga ngerapihin, bikin rumah kamu jadi rapi, tertata, dan nyaman banget deh",
           },
           {
             id: 3,
             icon: "fa fa-check",
-            title: "Buat Hidup Lebih Oke",
+            title: "Buat Hidup Jadi Lebih Berkualitas",
             text:
               "Kita bantu hilangin deh beban kerja jadi housekeeping kamu di rumah, biar kamu bisa fokus sama hidup dan santai bareng keluarga.",
           },

@@ -27,7 +27,7 @@
                   <div class="price-wrap d-flex">
                     <h4 class="">IDR 550.000</h4>
                   </div>
-                  <h6 class="period">Per 30 Hari</h6>
+                  <h6 class="period"><strong>MASA PAKAI KUOTA PER 30 HARI</strong></h6>
                 </div>
               </div>
               <div class="content">
@@ -37,10 +37,7 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Harga Normal
-                        <span style="text-decoration: line-through;"
-                          >IDR 800.000</span
-                        >
+                        <strong>FREE</strong> Cuci Sepatu 2 Pasang 
                       </h6>
                     </div>
                   </div>
@@ -48,7 +45,8 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Lebih Hemat <strong>IDR 250.000</strong>
+                        <strong>FREE UV Light</strong> Treatment Setiap Visit<br>
+                        Berfungsi Menetralisir Ruangan - Udara  Agar Terbebas dari Bakteri - Virus. 
                       </h6>
                     </div>
                   </div>
@@ -57,19 +55,11 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Harga Per Jam <strong>IDR 68.750</strong>
+                        TOTAL BONUS Senilai <strong>IDR 380 Ribu</strong>
                       </h6>
                     </div>
                   </div>
-
-                  <div class="list-header with-ckeck item-available">
-                    <div class="marker"></div>
-                    <div class="title-wrap">
-                      <h6 class="heading heading-h5">
-                        Diskon<strong> -31%</strong>
-                      </h6>
-                    </div>
-                  </div>
+                  <div style="height: 118px;"></div>
                 </div>
                 <!-- End Single List -->
               </div>
@@ -94,7 +84,7 @@
                   <div class="price-wrap d-flex">
                     <h4 class="">IDR 990.000</h4>
                   </div>
-                  <h6 class="period">Per 60 Hari</h6>
+                  <h6 class="period"><strong>MASA PAKAI KUOTA PER 60 HARI</strong></h6>
                 </div>
               </div>
               <div class="content">
@@ -104,10 +94,7 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Harga Normal
-                        <span style="text-decoration: line-through;"
-                          >IDR 1.600.000</span
-                        >
+                        <strong>FREE</strong> Cuci Sepatu 4 Pasang 
                       </h6>
                     </div>
                   </div>
@@ -115,7 +102,8 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Lebih Hemat <strong>IDR 610.000</strong>
+                        <strong>FREE UV Light</strong> Treatment Setiap Visit<br>
+                        Berfungsi Menetralisir Ruangan - Udara  Agar Terbebas dari Bakteri - Virus. 
                       </h6>
                     </div>
                   </div>
@@ -124,19 +112,11 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Harga Per Jam <strong>IDR 61.875</strong>
+                        TOTAL BONUS Senilai <strong>IDR 560 Ribu</strong>
                       </h6>
                     </div>
                   </div>
-
-                  <div class="list-header with-ckeck item-available">
-                    <div class="marker"></div>
-                    <div class="title-wrap">
-                      <h6 class="heading heading-h5">
-                        Diskon<strong> -38%</strong>
-                      </h6>
-                    </div>
-                  </div>
+                  <div style="height: 118px;"></div>
                 </div>
                 <!-- End Single List -->
               </div>
@@ -161,7 +141,7 @@
                   <div class="price-wrap d-flex">
                     <h4 class="">IDR 1.900.000</h4>
                   </div>
-                  <h6 class="period">Per 90 Hari</h6>
+                  <h6 class="period"><strong>MASA PAKAI KUOTA PER 90 HARI</strong></h6>
                 </div>
               </div>
               <div class="content">
@@ -171,10 +151,7 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Harga Normal
-                        <span style="text-decoration: line-through;"
-                          >IDR 3.200.000</span
-                        >
+                        <strong>FREE</strong> Cuci Sepatu 4 Pasang 
                       </h6>
                     </div>
                   </div>
@@ -182,16 +159,8 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Lebih Hemat <strong>IDR 1.300.000</strong>
-                      </h6>
-                    </div>
-                  </div>
-
-                  <div class="list-header with-ckeck item-available">
-                    <div class="marker"></div>
-                    <div class="title-wrap">
-                      <h6 class="heading heading-h5">
-                        Harga Per Jam <strong>IDR 59.375</strong>
+                        <strong>FREE UV Light</strong> Treatment Setiap Visit<br>
+                        Berfungsi Menetralisir Ruangan - Udara  Agar Terbebas dari Bakteri - Virus. 
                       </h6>
                     </div>
                   </div>
@@ -200,7 +169,17 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Diskon<strong> -41%</strong>
+                        <strong>FREE Car Fogging / Home Disinfectant</strong> Max Ruangan Max 6 x 6 Meter persegi<br>
+                        Berfungsi Menetralisir Ruangan Agar Terbebas dari Bakteri - Virus.  
+                      </h6>
+                    </div>
+                  </div>
+
+                  <div class="list-header with-ckeck item-available">
+                    <div class="marker"></div>
+                    <div class="title-wrap">
+                      <h6 class="heading heading-h5">
+                        TOTAL BONUS Senilai <strong>IDR 1,4 Juta</strong>
                       </h6>
                     </div>
                   </div>
@@ -224,11 +203,11 @@
             <div class="pricing-box">
               <div class="header">
                 <div class="price-area">
-                  <h5 class="title">PAKET 8 JAM</h5>
+                  <h5 class="title">PAKET 64 JAM</h5>
                   <div class="price-wrap d-flex">
                     <h4 class="">IDR 3.600.000</h4>
                   </div>
-                  <h6 class="period">Per 120 Hari</h6>
+                  <h6 class="period"><strong>MASA PAKAI KUOTA PER 120 HARI</strong></h6>
                 </div>
               </div>
               <div class="content">
@@ -238,10 +217,7 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Harga Normal
-                        <span style="text-decoration: line-through;"
-                          >IDR 6.400.000</span
-                        >
+                        <strong>FREE</strong> Cuci Sepatu 4 Pasang
                       </h6>
                     </div>
                   </div>
@@ -249,16 +225,8 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Lebih Hemat <strong>IDR 2.800.000</strong>
-                      </h6>
-                    </div>
-                  </div>
-
-                  <div class="list-header with-ckeck item-available">
-                    <div class="marker"></div>
-                    <div class="title-wrap">
-                      <h6 class="heading heading-h5">
-                        Harga Per Jam <strong>IDR 56.250</strong>
+                        <strong>FREE UV Light</strong> Treatment Setiap Visit<br>
+                        Berfungsi Menetralisir Ruangan - Udara  Agar Terbebas dari Bakteri - Virus. 
                       </h6>
                     </div>
                   </div>
@@ -267,7 +235,17 @@
                     <div class="marker"></div>
                     <div class="title-wrap">
                       <h6 class="heading heading-h5">
-                        Diskon<strong> -44%</strong>
+                        <strong>Dry Cleaning Kasur / Sofa</strong><br>
+                        Berfungsi Membersihkan kasur dari Debu, Sarang Telur Kutu, Tungau dan Anti Alergy  
+                      </h6>
+                    </div>
+                  </div>
+
+                  <div class="list-header with-ckeck item-available">
+                    <div class="marker"></div>
+                    <div class="title-wrap">
+                      <h6 class="heading heading-h5">
+                        TOTAL BONUS Senilai <strong>IDR 1,6 Juta</strong>
                       </h6>
                     </div>
                   </div>
@@ -325,7 +303,7 @@
                         marker: 3,
                     },
                     {
-                        title: 'Pemesanan pekerjaan dilakukan paling lambat H-2 dengan menghubungi customer service Home Steril',
+                        title: 'Pemesanan pekerjaan dilakukan paling lambat sehari sebelum dengan menghubungi customer service Home Steril',
                         marker: 4,
                     },
                     {

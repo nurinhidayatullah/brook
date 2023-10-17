@@ -21,7 +21,7 @@
                 </h2>
                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionTwo">
                     <div class="accordion-body">
-                        Khusus buat jasa cleaning, kita cuma ngebatesin area Jakarta Selatan, Jakarta Barat, Depok, Bandung, sama Bali. Kalo wilayah lain, bisa langsung konsultasi sama admin kita lewat nomor yang ada di bawah.
+                        Khusus buat jasa cleaning, kita cuma ngebatesin area Seluruh Jakarta, Depok, Bandung, sama Bali. Kalo wilayah lain, bisa langsung konsultasi sama admin kita lewat nomor yang ada di bawah.
                     </div>
                 </div>
             </div>

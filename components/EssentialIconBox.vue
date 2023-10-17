@@ -1,14 +1,12 @@
 <template>
-  <div class="brook-icon-boxes-area ptb--100">
+  <div class="brook-icon-boxes-area pt--100 pb--40">
     <div class="container">
       <div class="row">
         <div class="col-12">
           <div class="brook-section-title text-center mb--45">
             <div class="bkseparator--25"></div>
             <h2 class="heading-40 fw-200">
-              <strong
-                >PAKET LANGGANAN KEBERSIHAN HEMAT INI COCOK UNTUK :</strong
-              >
+              <strong>PAKET PEMBANTU RUMAH TANGGA</strong> HARIAN INI
             </h2>
           </div>
         </div>
@@ -30,6 +28,60 @@
           </div>
         </div>
       </div>
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th class="w-75">KETERANGAN</th>
+            <th>HOME STERIL</th>
+            <th>ART BIASA</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="text-bold">Biaya (Gaji) Bulanan</td>
+            <td class="text-right text-primary text-bold">Rp550.000</td>
+            <td class="text-right text-danger text-bold">Rp2.500.000</td>
+          </tr>
+          <tr>
+            <td class="text-bold">Konsumsi / bulan asumsi'@20.000/hari</td>
+            <td class="text-right text-primary text-bold">Rp-</td>
+            <td class="text-right text-danger text-bold">Rp600.000</td>
+          </tr>
+        </tbody>
+        <thead class="thead-dark">
+          <tr>
+            <th class="text-bold">PERBEDAAN BIAYA BULANAN</th>
+            <th class="text-right">Rp550.000</th>
+            <th class="text-right">Rp3.100.000</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="text-bold">THR / Tahun</td>
+            <td class="text-right text-primary text-bold">Rp-</td>
+            <td class="text-right text-danger text-bold">Rp2.500.000</td>
+          </tr>
+          <tr>
+            <td class="text-bold">Biaya berobat saat ART sakit / tahun</td>
+            <td class="text-right text-primary text-bold">Rp-</td>
+            <td class="text-right text-danger text-bold">Rp500.000</td>
+          </tr>
+        </tbody>
+        <thead class="thead-dark">
+          <tr>
+            <th class="text-bold">PERBEDAAN BIAYA TAHUNAN</th>
+            <th class="text-right">Rp6.600.000</th>
+            <th class="text-right">Rp40.200.000</th>
+          </tr>
+        </thead>
+        <thead class="thead-dark">
+          <tr>
+            <th class="text-bold">PENGHEMATAN TAHUNAN</th>
+            <th class="text-right"></th>
+            <th class="text-right">Rp33.600.000</th>
+          </tr>
+        </thead>
+      </table>
     </div>
   </div>
 </template>
@@ -62,7 +114,8 @@ export default {
         {
           id: 4,
           icon: "fa fa-briefcase",
-          title: "Buat yang Sibuk dan Mau Nikmatin Hidup Lebih Nyaman, Irit, dan Privasi Terjaga",
+          title:
+            "Buat yang Sibuk dan Mau Nikmatin Hidup Lebih Nyaman, Irit, dan Privasi Terjaga",
           text:
             "We always solve the most important problems to have the biggest impact",
         },
@@ -74,7 +127,8 @@ export default {
 
 <style lang="scss">
 .inner {
-    .icon {
-        color: red !important;
-    }
-}</style>
+  .icon {
+    color: red !important;
+  }
+}
+</style>
